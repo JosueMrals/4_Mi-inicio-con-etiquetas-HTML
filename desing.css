@@ -1,0 +1,22 @@
+h2 {
+  color: blue;
+  float: center;
+}
+
+body{
+    background-color: white;
+    
+}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+  }
+
+  img {
+      width: 300px;
+  }
